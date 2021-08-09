@@ -1,0 +1,20 @@
+.barHolder{
+    display: flex;
+    justify-content: center;
+    text-align: center; 
+    min-height: 100vh;
+    min-width: 100vw; 
+}
+.navbarHolder{ 
+    display: flex; 
+    justify-content: center;
+    text-align: center;   
+    margin-bottom: 50px; 
+    padding-top: 50px;
+}
+.btn{
+    margin-right: 35px;
+}  
+.bodyClass{
+   background-color: #2B2B2B; 
+}
